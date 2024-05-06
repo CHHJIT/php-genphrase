@@ -1,14 +1,7 @@
 {
-  "name": "genphrase/genphrase",
+  "name": "CHHJIT/php-genphrase",
   "description": "Secure passphrase generator for PHP applications",
-  "keywords": [
-    "secure",
-    "random",
-    "password",
-    "passphrase",
-    "generator",
-    "diceware"
-  ],
+  "keywords": ["secure", "random","password","passphrase","generator","diceware"],
   "homepage": "https://github.com/timoh6/GenPhrase",
   "type": "library",
   "license": "MIT",
@@ -16,8 +9,6 @@
     "php": ">=5.3.0"
   },
   "autoload": {
-    "psr-0": {
-      "GenPhrase": "library/"
-    }
+    "psr-0": {"GenPhrase": "library/"}
   }
 }
